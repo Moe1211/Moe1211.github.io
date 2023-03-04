@@ -74893,8 +74893,8 @@ r($,"aI4","atv",()=>A.km("Javascript","assets/images/technology/javascript.png")
 r($,"aI9","amE",()=>A.km("Swift","assets/images/technology/swift.png"))
 r($,"aI8","atx",()=>A.km("SceneKit","assets/images/technology/scenekit.jpeg"))
 r($,"aIa","aty",()=>A.a([$.T6(),$.amE(),$.att(),$.ajq(),$.atv(),$.amC()],A.a4("r<iY>")))
-s($,"aKS","ave",()=>{var q="+91 9167877725"
-return A.a([A.Zg(B.n0,new A.aie(),"Mumbai, Maharashtra","India","ADDRESS"),A.Zg(B.D3,new A.aif(),q,"","PHONE"),A.Zg(B.D0,new A.aig(),"agnelselvan007@gmail.com","","EMAIL"),A.Zg(B.D6,new A.aih(),q,"","WHATSAPP")],A.a4("r<pP>"))})
+s($,"aKS","ave",()=>{var q="+20 1022614423"
+return A.a([A.Zg(B.n0,new A.aie(),"Cairo, Egypt","India","ADDRESS"),A.Zg(B.D3,new A.aif(),q,"","PHONE"),A.Zg(B.D0,new A.aig(),"ibrahim.moe121@gmail.com","","EMAIL"),A.Zg(B.D6,new A.aih(),q,"","WHATSAPP")],A.a4("r<pP>"))})
 s($,"aL2","avh",()=>A.a([A.al4("5+","Projects"),A.al4("4","Awards"),A.al4("1","Years\nExperience")],A.a4("r<ri>")))
 s($,"aKP","an0",()=>A.a([A.ak1("assets/images/learn.png","","Learn"),A.ak1("assets/images/develop.png","","Develop"),A.ak1("assets/images/blog.png","","Document It")],A.a4("r<EF>")))
 s($,"aKU","ajx",()=>A.anA(new A.ais(),t.xB))
